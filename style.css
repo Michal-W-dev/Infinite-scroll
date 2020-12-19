@@ -183,6 +183,7 @@ h1 span {
         left: 50%;
         z-index:2;
         width: 95%; 
+    }
 }
 @media screen and (max-width:700px){
     html{
